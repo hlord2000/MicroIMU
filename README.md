@@ -3,7 +3,7 @@
 Pins:
 3.3V->P26 and GND->P40
 
-<p style="center">
-    <img href="img/board.png">
+<p align="center">
+    <img src="img/board.png">
 </p>
 
